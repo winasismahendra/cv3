@@ -1,0 +1,1 @@
+<li id="cart_header"><a href="{{route('cart')}}"><span id="nav-cart" class="flaticon-shopping-cart"><small class="badge badge-secondary">{{Cart::content()->count()}}</small></span></a> </li>
